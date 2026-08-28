@@ -8,7 +8,7 @@ Use this when submitting the public GitHub repo. Do not click **Submit Applicati
 - **GitHub repository:** `https://github.com/francemazzi/frasma-plugin`
 - **Handle:** `frasma`
 - **Website:** `https://frasma.org`
-- **Logo:** raw GitHub URL of `assets/logo.jpeg` after push, or the relative path in the repo.
+- **Logo:** `https://raw.githubusercontent.com/francemazzi/frasma-plugin/main/assets/logo.jpeg` (also `assets/logo.jpeg` in the repo).
 - **License:** MIT (permissive; not GPL).
 - **Publisher type:** Individual or organization as appropriate.
 
