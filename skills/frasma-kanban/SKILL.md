@@ -25,6 +25,7 @@ Never invent task IDs. Always re-read version before a patch.
 - Do not mix unrelated outcomes into one card. Independent results belong on separate tasks.
 - Mutations need a `reason`. MCP revisions use `source = AI` and a `mcp:` reason prefix on the server; still pass a clear human reason.
 - Suggest priority; do not overwrite it automatically. Do not infer urgency from tone alone.
+- `create_task` requires `title`, `description`, and `reason`. Title names the area and the outcome. Description is never a paraphrase of the title: include the reported fact, expected behavior, and a reproduction or acceptance criterion. If those are missing, ask instead of creating a thin card.
 
 ## Tools
 

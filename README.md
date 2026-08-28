@@ -74,7 +74,7 @@ Tools (as the signed-in user, with RBAC and optimistic locking):
 - `list_projects`, `get_project`, `get_project_workboard`
 - `list_tasks`, `get_task`, `list_task_conversations`
 - `search_project_knowledge`
-- `create_task`, `update_task`, `move_task`
+- `create_task`, `update_task`, `move_task` — `create_task` requires a verifiable description (context, expected behavior, reproduction or acceptance), not a title paraphrase
 
 The plugin also ships:
 
