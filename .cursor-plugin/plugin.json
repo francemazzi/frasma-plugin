@@ -1,0 +1,14 @@
+{
+  "name": "frasma",
+  "version": "1.0.0",
+  "description": "Frasma Kanban as the source of truth. Cursor, Cloud Agents, and other clients share the same backlog over remote MCP with OAuth.",
+  "author": {
+    "name": "Frasma",
+    "email": "hello@frasma.org"
+  },
+  "homepage": "https://frasma.org",
+  "repository": "https://github.com/francemazzi/frasma-plugin",
+  "license": "MIT",
+  "keywords": ["frasma", "kanban", "mcp", "tasks", "backlog", "oauth"],
+  "logo": "assets/logo.jpeg"
+}

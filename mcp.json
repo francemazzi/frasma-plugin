@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "frasma": {
+      "type": "http",
+      "url": "https://api.frasma.org/mcp"
+    }
+  }
+}

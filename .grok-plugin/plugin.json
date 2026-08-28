@@ -1,0 +1,17 @@
+{
+  "name": "frasma",
+  "version": "1.0.0",
+  "description": "Connect Grok to the Frasma Kanban over remote MCP. Sign in with your Frasma account; the agent then reads and updates the same backlog as the web app.",
+  "author": {
+    "name": "Frasma",
+    "email": "hello@frasma.org",
+    "url": "https://frasma.org"
+  },
+  "homepage": "https://frasma.org",
+  "repository": "https://github.com/francemazzi/frasma-plugin",
+  "license": "MIT",
+  "keywords": ["frasma", "kanban", "mcp", "tasks"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "logo": "./assets/logo.jpeg"
+}

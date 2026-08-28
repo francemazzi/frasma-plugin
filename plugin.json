@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "frasma",
+  "version": "1.0.0",
+  "description": "Frasma Kanban as the source of truth. Agents share the same backlog over remote MCP with OAuth.",
+  "author": {
+    "name": "Frasma",
+    "email": "hello@frasma.org",
+    "url": "https://frasma.org"
+  },
+  "homepage": "https://frasma.org",
+  "repository": "https://github.com/francemazzi/frasma-plugin",
+  "license": "MIT",
+  "keywords": ["frasma", "kanban", "mcp", "tasks", "backlog", "oauth"]
+}
