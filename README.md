@@ -1,6 +1,8 @@
 # Frasma
 
-The [Frasma](https://frasma.org) Kanban is the source of truth for project work. This plugin connects Cursor, Cloud Agents, Grok Build, Claude, ChatGPT, and the Grok bot to the same backlog over remote MCP.
+Clients talk. You ship. Same board.
+
+[Frasma](https://frasma.org) is for freelancers and software teams with clients. Clients message the chat with bugs, requests, and feedback on what to improve — it lands on the Kanban, not in a lost thread. This plugin puts that live board in Cursor, Cloud Agents, Grok Build, Claude, ChatGPT, and the Grok bot, so the agent works the same cards the customer already sees.
 
 The server URL is always production HTTPS:
 
@@ -91,7 +93,7 @@ Publisher form: [cursor.com/marketplace/publish](https://cursor.com/marketplace/
 | License | MIT |
 | Homepage | `https://frasma.org` |
 | Logo | `assets/logo.jpeg` in this repo |
-| Short description | Frasma Kanban as the source of truth. One remote MCP, OAuth login, same backlog in Cursor and Cloud Agents. |
+| Short description | Clients talk. You ship. Same board. For freelancers and software teams with clients: they report issues and feedback in chat; you and the Cursor agent work the same Frasma Kanban. |
 
 Community listing (no Cursor review): paste this repo URL at [cursor.directory/plugins/new](https://cursor.directory/plugins/new).
 

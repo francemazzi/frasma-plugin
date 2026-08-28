@@ -14,7 +14,9 @@ Use this when submitting the public GitHub repo. Do not click **Submit Applicati
 
 ### Listing blurb
 
-Frasma Kanban as the source of truth. Install the plugin, sign in with your Frasma account, and Cursor (desktop and Cloud Agents) shares the same backlog as the web app over `https://api.frasma.org/mcp`.
+**Headline:** Clients talk. You ship. Same board.
+
+**Description:** For freelancers and software teams with clients. Clients message the Frasma chat with bugs, requests, and feedback on what to improve — it lands on the Kanban, not in a lost thread. In Cursor the agent works on those same cards, so everyone stays aligned: customer, developer, and backlog.
 
 ### Review notes for the form / email
 
