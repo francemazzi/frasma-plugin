@@ -1,7 +1,7 @@
 {
   "name": "frasma",
   "version": "1.0.0",
-  "description": "Frasma Kanban as the source of truth. Cursor, Cloud Agents, and other clients share the same backlog over remote MCP with OAuth.",
+  "description": "Clients talk. You ship. Same board. For freelancers and software teams with clients: they report issues and feedback in chat; you and the Cursor agent work the same Frasma Kanban.",
   "author": {
     "name": "Frasma",
     "email": "hello@frasma.org"

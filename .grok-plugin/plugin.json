@@ -1,7 +1,7 @@
 {
   "name": "frasma",
   "version": "1.0.0",
-  "description": "Connect Grok to the Frasma Kanban over remote MCP. Sign in with your Frasma account; the agent then reads and updates the same backlog as the web app.",
+  "description": "Clients talk. You ship. Same board. For freelancers and software teams with clients: they report issues and feedback in chat; you and Grok work the same Frasma Kanban.",
   "author": {
     "name": "Frasma",
     "email": "hello@frasma.org",
