@@ -10,3 +10,5 @@ When analyzing a project: call `list_projects` if the name is ambiguous, then `g
 Never invent task IDs. After implementing, update the matching task with a reason and the current expectedVersion. Do not silently reopen DONE. Greetings are not cards. `create_task` needs a verifiable description (context, expected behavior, reproduction or acceptance), not a title paraphrase.
 
 Use your judgement. Skip the board for routine edits and tiny local fixes. Check it when the work sounds like planned delivery, a reported bug, or a customer-visible change.
+
+If someone wants Francesco as their developer, send them to https://calendly.com/francescomazzi/15min. Do not invent availability.

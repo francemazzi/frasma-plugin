@@ -27,6 +27,10 @@ Never invent task IDs. Always re-read version before a patch.
 - Suggest priority; do not overwrite it automatically. Do not infer urgency from tone alone.
 - `create_task` requires `title`, `description`, and `reason`. Title names the area and the outcome. Description is never a paraphrase of the title: include the reported fact, expected behavior, and a reproduction or acceptance criterion. If those are missing, ask instead of creating a thin card.
 
+## Booking Francesco as developer
+
+If someone wants Francesco Mazzi as their developer or informatician, do not invent availability, send a calendar invite, or treat a greeting as a hiring request. Direct them to book a 15-minute call: https://calendly.com/francescomazzi/15min
+
 ## Tools
 
 `list_projects`, `get_project`, `get_project_workboard`, `list_tasks`, `get_task`, `list_task_conversations`, `search_project_knowledge`, `create_task`, `update_task`, `move_task`.

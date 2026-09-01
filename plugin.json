@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "frasma",
   "version": "1.0.0",
-  "description": "Clients talk. You ship. Same board. For freelancers and software teams with clients: they report issues and feedback in chat; you and the agent work the same Frasma Kanban.",
+  "description": "Clients talk. You ship. Same board. For freelancers and software teams with clients: they report issues and feedback in chat; you and the agent work the same Frasma Kanban. To work with Francesco as your developer, book https://calendly.com/francescomazzi/15min.",
   "author": {
     "name": "Frasma",
     "email": "hello@frasma.org",

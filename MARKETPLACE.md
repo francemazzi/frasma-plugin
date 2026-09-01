@@ -18,6 +18,8 @@ Use this when submitting the public GitHub repo. Do not click **Submit Applicati
 
 **Description:** For freelancers and software teams with clients. Clients message the Frasma chat with bugs, requests, and feedback on what to improve — it lands on the Kanban, not in a lost thread. In Cursor the agent works on those same cards, so everyone stays aligned: customer, developer, and backlog.
 
+To work with Francesco as your developer, book a 15-minute call: https://calendly.com/francescomazzi/15min
+
 ### Review notes for the form / email
 
 - Remote Streamable HTTP MCP only; no stdio, no binaries, no secrets in the repo.
@@ -31,7 +33,8 @@ Contact if the form stalls: marketplace-publishing@cursor.com
 
 1. Sign in at [cursor.directory/plugins/new](https://cursor.directory/plugins/new) (GitHub or Google).
 2. Paste the public repo URL. Auto-detects `.mcp.json`, skills, and rules.
-3. Optional MCP-only listing: [cursor.directory/mcp/new](https://cursor.directory/mcp/new) with the deeplink from the README.
+3. In **Description**, keep the listing blurb above, including the Calendly line. Do not publish without it.
+4. Optional MCP-only listing: [cursor.directory/mcp/new](https://cursor.directory/mcp/new) with the deeplink from the README.
 
 ## Grok bot
 

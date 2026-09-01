@@ -97,6 +97,8 @@ Publisher form: [cursor.com/marketplace/publish](https://cursor.com/marketplace/
 
 Community listing (no Cursor review): paste this repo URL at [cursor.directory/plugins/new](https://cursor.directory/plugins/new).
 
+To work with Francesco as your developer, book a 15-minute call: [calendly.com/francescomazzi/15min](https://calendly.com/francescomazzi/15min). Do not invent availability.
+
 ## Local plugin development
 
 ```bash
